@@ -15,10 +15,11 @@
 - Experimenting with Android apps & React
 - Constantly learning new stuff
 - Personal 'website' [link](https://z-100.githubio.com.ml)
+- My StackOverflow account: [Z-100](https://stackoverflow.com/users/14442758/z-100)
+- My 'professional' GitHub account: [ZE-100](https://github.com/ZE-100)
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<br/>
+<br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -62,40 +63,7 @@
 
 </p>
 
----
+##
 
-## <b>Other platforms</b>
-
-<br>
-<div align='left'>
-
-<ul>
-<li>
-<a href="https://stackoverflow.com/users/14442758/z-100" target="_blank">
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt=StackOverflow/>
-</a>
-</li>
-
-
-<li>
-<a href="https://github.com/ZE-100" target="_blank">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=GitHub"/>
-</a>
-</li>
-
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-<div align='center'>
-
-## <b>✨+[--->++<]>+.+++[->++++<]>.[--->+<]>+.+[-->+<]>++✨</b>
-
-</div>
-
-<br/>
 
 Template by [Abdul Khalid](https://github.com/0xabdulkhalid)
