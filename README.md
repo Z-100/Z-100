@@ -45,7 +45,7 @@
 
 <br>
 
-- **Softwares and Tools**:
+- **Software and Tools**:
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -63,30 +63,7 @@
 
 </p>
 
-<br>
-<br>
-
 -----
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z-100&count_private=true&include_all_commits=true&hide=stars&custom_title=Some%20of%20my%20GitHub%20stats&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-100&count_private=true&custom_title=My%20top%20%languages:&hide=Hack&layout=compact&theme=radical&langs_count=6" width="375"  alt="0xabdulkhalid"/>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b>Other platforms</b>
 
@@ -100,7 +77,6 @@
 </a>
 </li>
 
-<br>
 
 <li>
 <a href="https://github.com/ZE-100" target="_blank">
@@ -114,17 +90,12 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
 <div align='center'>
 
 ## <b>✨+[--->++<]>+.+++[->++++<]>.[--->+<]>+.+[-->+<]>++✨</b>
 
 </div>
-<br>
-<br>
-<br>
 <br>
 
 ---
