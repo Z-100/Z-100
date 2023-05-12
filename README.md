@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi, I'm Marvin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there..&hearts;++;Backend+Developer,;Programming+apprentice,;A+bit+of+kotlin+spirit,;Active+Learner+of+...,;stuff..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there..&hearts;++;General+Keno-..;Backend+Developer+&+Programming+apprentice;Kotlin's+da+best;Active+learner+of+stuff"></a>
 </p>
 
 ## **About me**
@@ -12,9 +12,9 @@
 <br>
 
 - A passionate backend developer in love with Spring-Boot
-- Experimenting with Android apps & React
+- Experimenting with Android-apps, Arduino & React
 - Constantly learning new stuff
-- Personal 'website' [link](https://z-100.githubio.com.ml)
+- Personal 'website': [github.io](https://z-100.githubio.com.ml)
 - My StackOverflow account: [Z-100](https://stackoverflow.com/users/14442758/z-100)
 - My 'professional' GitHub account: [ZE-100](https://github.com/ZE-100)
 
@@ -39,9 +39,11 @@
 
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  
 
 <br>
 
