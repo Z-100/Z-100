@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi, I'm Marvin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there..&hearts;++;General+Keno-..;Backend+Developer+&+Programming+apprentice;Kotlin's+da+best;Active+learner+of...+stuff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there..&hearts;++;General+Keno-..;Backend+Developer+and+Programming+apprentice;Kotlin's+da+best;Active+learner+of...+stuff"></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20xeWZjcHp4d2pyNjY3aDA2dnFxOWtrcjF1bnNoeGgwZ2ZhaG9kYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/><b>  About me</b>
@@ -11,12 +11,12 @@
 
 <br>
 
-- A passionate backend developer in love with Spring-Boot
-- Experimenting with Android-apps, Arduino & React
-- Constantly learning new stuff
-- Personal 'website': [github.io](https://z-100.githubio.com.ml)
-- My StackOverflow account: [Z-100](https://stackoverflow.com/users/14442758/z-100)
-- My 'professional' GitHub account: [ZE-100](https://github.com/ZE-100)
+- :moyai:     A passionate backend developer in love with Spring Boot
+- :computer:  Trying my best with React in the web
+- :tophat:    Experimenting with Android-apps, Arduino & Unity
+- :rainbow:   Constantly learning new stuff
+- :rocket:    Personal 'website': [github.io](https://z-100.githubio.com.ml)
+- :eyes:      My 'professional' GitHub account: [ZE-100](https://github.com/ZE-100)
 
 <br/>
 <br/>
