@@ -7,15 +7,13 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20xeWZjcHp4d2pyNjY3aDA2dnFxOWtrcjF1bnNoeGgwZ2ZhaG9kYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/><b>  About me</b>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - :moyai:     A passionate backend developer in love with Spring Boot
 - :computer:  Trying my best with React in the web
 - :tophat:    Experimenting with Android-apps, Arduino & Unity
 - :rainbow:   Constantly learning new stuff
-- :rocket:    Personal 'website': [github.io](https://z-100.githubio.com.ml)
+- :rocket:    Le website: [Vayan](https://vayan.zindustries.ch)
 - :eyes:      My 'professional' GitHub account: [ZE-100](https://github.com/ZE-100)
 
 <br/>
